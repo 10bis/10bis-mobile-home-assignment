@@ -29,7 +29,7 @@ Please submit the project as a zip file that contains your project and a readme 
 
 Android submissions - send to Gal and Chani: gal.machluf@justeattakeaway.com & chani.aharoni@justeattakeaway.com
 
-IOS submissions - send to Aran and Chani: gal.machluf@justeattakeaway.com & chani.aharoni@justeattakeaway.com
+IOS submissions - send to Gal and Chani: gal.machluf@justeattakeaway.com & chani.aharoni@justeattakeaway.com
 
 Final Notes
 We want to see clean code with testability in mind (there is no need for actual unit/UI tests)
