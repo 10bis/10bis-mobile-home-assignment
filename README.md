@@ -10,7 +10,7 @@ Create a new project with a restaurant list page.
 
 Fill the list using the following rest request.
 
-GET: https://my-json-server.typicode.com/gilgoldzweig/SampleTest/db
+GET: https://my-json-server.typicode.com/10bis/10bis-mobile-home-assignment/db
 
 ** Don't spend much time on how the items look or UI in general. **
 
