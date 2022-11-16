@@ -27,7 +27,7 @@ The final task is mocking the restaurant's request with a mock json file that we
 Submission
 Please submit the project as a zip file that contains your project and a readme file with instructions on how we need to compile it.
 
-Android submissions - send to Gal and Chani: gal.machluf@justeattakeaway.com & chani.aharoni@justeattakeaway.com
+Android submissions - send to Gal and Jenny: gal.machluf@justeattakeaway.com & Jenny.Feldman@justeattakeaway.com
 
 IOS submissions - send to Filip and Chani: filip.jablonski@justeattakeaway.com & chani.aharoni@justeattakeaway.com
 
